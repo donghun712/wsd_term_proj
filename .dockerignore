@@ -1,0 +1,8 @@
+.env
+.env.*
+serviceAccountKey.json
+*.pem
+*.ppk
+.git
+__pycache__/
+*.pyc
