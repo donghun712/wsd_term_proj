@@ -48,8 +48,6 @@ Docker & Docker Compose 기반 컨테이너 환경에서 배포되었습니다.
 |---|---|---|---|---|
 | Frontend | Streamlit | 8501 | **13027** | 사용자 웹 UI |
 | Backend | FastAPI | 8000 | **17027** | REST API |
-| Database | MySQL 8.0 | 3306 | 3307 | 메인 DB |
-| Cache | Redis | 6379 | 6380 | 세션/캐시 |
 
 ---
 
